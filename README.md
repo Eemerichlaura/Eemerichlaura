@@ -87,5 +87,5 @@ E, claro, adoro explorar minha essência criativa e alternativa no que faço —
 ---
 
 ## 🌐 Contato
-📧 Email: seuemail@gmail.com  
+📧 Email: emerich.laural@gmail.com  
 📞 Tel: 16 99740-0220
