@@ -20,7 +20,7 @@ Sou estudante de Informática a 9 anos, meu primeiro curso foi em 2016 sobre "co
  ---
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** C, C++, PHP, Java, JavaScript
+- **Linguagens:** C, C++, PHP, JavaScript
 - **Web:** HTML, CSS  
 - **Banco de Dados:** MySQL
 - **Segurança:** Noções de redes
