@@ -80,7 +80,7 @@ Além disso, sou fluente em português e inglês, o que abre portas para aprende
 
 Mas não vivo só de código! Também sou apaixonada por jogos, músicas, RPG de mesa e animes/livros cheios de fantasia e drama e romance como Violet Evergarden e Bridgerton 
 
-Tenho um lado sonhador: gosto de criar histórias, lores e personagens para RPGs, desenhar, fazer animações e edição de video com o Aligh motion, Procreate e etc em meu celular.
+Tenho um lado sonhador: gosto de criar histórias, lores e personagens para RPGs, desenhar, fazer animações e edição de video com o Aligh motion, Procreate e etc..
 E, claro, adoro explorar minha essência criativa e alternativa no que faço — seja em estudos, projetos ou hobbies.
 
 ---
