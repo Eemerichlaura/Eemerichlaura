@@ -5,7 +5,7 @@ Sou estudante de Informática a 9 anos, meu primeiro curso foi em 2016 sobre "co
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@callmeemerich">
         <img 
             alt="youtube subscribers" 
             title="sim é gacha.. eu tinha 7 anos kk" 
